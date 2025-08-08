@@ -12,7 +12,7 @@ I have developed the solution in **Python** using **Jupyter Notebook**, followin
   1. Obtaining the access token
   2. Retrieving the public key
 
-  * Additional API endpoints as outlined in the assessment can be added following the same structure.
+  * In addition to other fields.
 * **Jupyter Notebook (.ipynb)**: Implements the API calls and processes the responses according to the provided requirements.
 
 ## Development Notes
